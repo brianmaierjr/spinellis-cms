@@ -1,3 +1,3 @@
-import location from './location'
+import events from './events'
 
-export const schemaTypes = [location]
+export const schemaTypes = [events]
